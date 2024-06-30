@@ -14,7 +14,7 @@ Bare_Bones:
 
 Redacted:
 - Remove information (Temperarily)
-- Try to fix email form
+- Fixed email form
 
 Update README.md:
 - Reformated readme.md
